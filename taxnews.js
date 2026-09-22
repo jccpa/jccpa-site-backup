@@ -1,5 +1,5 @@
 window.TAX_NEWS = {
-  "updated": "2026-09-22 08:31",
+  "updated": "2026-09-22 14:40",
   "count": 15,
   "news": [
     {
@@ -7,6 +7,30 @@ window.TAX_NEWS = {
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
       "date": "2026-09-22",
       "source": "新竹縣政府稅務局"
+    },
+    {
+      "title": "新北稅捐廉政專案講習 促進AI於專業之運作與廉能透明",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/mrK5lYA",
+      "date": "2026-09-22",
+      "source": "新北市政府稅捐稽徵處"
+    },
+    {
+      "title": "節稅必看！出售自用住宅用地請掌握優惠稅率要件",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/M7n52kO",
+      "date": "2026-09-22",
+      "source": "新北市政府稅捐稽徵處"
+    },
+    {
+      "title": "台中市啟動社會福利事業及私立學校免徵土地增值稅案件清查",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/9MpElkl",
+      "date": "2026-09-22",
+      "source": "臺中市政府地方稅務局"
+    },
+    {
+      "title": "車被侵占，牌照稅誰來繳？地稅局提醒：判決確定前，車主仍要繳",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/kKqOLPe",
+      "date": "2026-09-22",
+      "source": "臺中市政府地方稅務局"
     },
     {
       "title": "AI稅務歌曲助陣！「稅動全城舞出新潮」 新北街舞賽嗨翻全場",
@@ -67,30 +91,6 @@ window.TAX_NEWS = {
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/Mp95BV8",
       "date": "2026-09-18",
       "source": "嘉義市政府財政稅務局"
-    },
-    {
-      "title": "遷入戶籍時一併申請地價稅自用住宅用地優惠稅率，省時又方便！",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/06MrNb",
-      "date": "2026-09-18",
-      "source": "臺中市政府地方稅務局民權分局"
-    },
-    {
-      "title": "娛樂稅繳款截止日為例假日者可順延至次日繳納",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/bwONWPG",
-      "date": "2026-09-18",
-      "source": "基隆市稅務局"
-    },
-    {
-      "title": "不課徵土地增值稅不是免稅 夫妻贈與土地應審慎評估",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/a9MzKpw",
-      "date": "2026-09-17",
-      "source": "花蓮縣地方稅務局"
-    },
-    {
-      "title": "「繪玩又會稅」互動繪本網頁遊戲  總獎金高達4萬1,000元 等你來挑戰！",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/WV2oVzP",
-      "date": "2026-09-17",
-      "source": "新北市政府稅捐稽徵處"
     }
   ]
 };
