@@ -1,0 +1,1 @@
+.source-list a{grid-template-columns:1fr 22px!important;gap:4px}.source-list strong{grid-column:1}.source-list span{grid-column:2}@media(max-width:760px){.source-list a{grid-template-columns:1fr 18px!important}.source-list strong{grid-column:1;grid-row:1}.source-list span{grid-column:2;grid-row:1}}

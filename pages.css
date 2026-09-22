@@ -1,0 +1,190 @@
+.page-hero{min-height:355px;padding:7vw 15vw 6vw;background:linear-gradient(115deg,#f7f5ee 0%,#f7f5ee 63%,#c8ded5 63%)}
+.page-hero h1{max-width:740px;margin:0;font:600 clamp(40px,5vw,66px)/1.3 "Noto Serif TC",serif}
+.page-hero h1 em{font-style:normal;color:#5b746e}
+.page-hero>p:last-child{max-width:550px;color:#52686c;font-size:16px}
+.current:not(.nav-cta){color:#5b746e;border-bottom:2px solid var(--lime)}
+.service-list{padding:5vw 15vw 9vw}
+.service-list article{display:grid;grid-template-columns:80px 1fr 100px;gap:25px;align-items:start;border-top:1px solid var(--line);padding:35px 0;scroll-margin-top:118px}
+.service-list article>div{grid-column:2}
+.service-list article>a{grid-column:3}
+.service-list article:last-child{border-bottom:1px solid var(--line)}
+.service-list h2{font:600 29px "Noto Serif TC",serif;margin:0 0 9px}
+.service-list p{margin:0;max-width:540px;color:#596c70;font-size:13px}
+.service-list .service-intro{font-size:17px;line-height:1.85;text-align:justify;text-justify:inter-character;text-align-last:left}
+.service-list .service-story{max-width:700px;margin-top:17px;font-size:18px;line-height:1.95;text-align:justify;text-justify:inter-character;text-align-last:left}
+.service-list .service-detail-link{display:inline-block;margin-top:16px;font-size:13px;color:#57756d;text-decoration:none;border-bottom:1px solid currentColor;padding-bottom:2px}
+.service-detail-page{padding:6vw 15vw 9vw;background:var(--paper)}
+.service-detail-page p{max-width:760px;margin:0 0 22px;color:#52686c;font-size:18px;line-height:1.95;text-align:justify;text-justify:inter-character;text-align-last:left}
+.detail-section{max-width:980px;margin:52px 0 0;padding-top:32px;border-top:1px solid var(--line)}
+.detail-section h2{margin:0 0 16px;color:#263d46;font:600 clamp(27px,3vw,38px)/1.35 "Noto Serif TC",serif}
+.detail-section h3{margin:0 0 8px;color:#314a52;font:600 18px/1.55 "Noto Serif TC",serif}
+.detail-question-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin-top:22px}
+.detail-question-list article{padding:23px 24px 20px;border:1px solid rgba(38,61,70,.14);background:#fbfaf6}
+.detail-question-list p{margin:0;max-width:none;font-size:16px;line-height:1.8}
+.comparison-table-wrap{max-width:100%;margin:24px 0 17px;overflow-x:auto;border:1px solid rgba(38,61,70,.16);background:#fff;box-shadow:0 8px 20px rgba(38,61,70,.04)}
+.comparison-table{width:100%;min-width:700px;border-collapse:collapse;color:#435b61;text-align:left}
+.comparison-table caption{padding:15px 20px;background:#e8f0ec;color:#3c5d57;font-size:15px;font-weight:700;text-align:left}
+.comparison-table th,.comparison-table td{padding:16px 18px;border-bottom:1px solid rgba(38,61,70,.12);vertical-align:top;font-size:15px;line-height:1.75}
+.comparison-table thead th{background:#f4f5f0;color:#2e4750;font-weight:700}
+.comparison-table tbody th{width:19%;color:#314c55;font-weight:700;background:#fbfcf9}
+.comparison-table tbody tr:last-child th,.comparison-table tbody tr:last-child td{border-bottom:0}
+.comparison-table--types{min-width:880px}
+.comparison-table--types tbody th{width:15%}
+.detail-note{max-width:900px!important;margin:0!important;padding:14px 18px!important;border-left:3px solid #87aaa1;background:#f1f5f1;color:#52686c!important;font-size:16px!important;line-height:1.85!important}
+.detail-legal-source{max-width:900px!important;margin:48px 0 0!important;padding-top:22px;border-top:1px solid var(--line);font-size:14px!important;line-height:1.8!important}
+.detail-legal-source a{color:#487268;font-weight:700;text-decoration:none;border-bottom:1px solid currentColor}
+.service-back{display:inline-block;margin-top:14px;color:#57756d;font-size:14px;font-weight:700;text-decoration:none;border-bottom:1px solid currentColor;padding-bottom:3px}
+.service-details{max-width:680px;margin:16px 0 0;padding:14px 0 0;list-style:none;border-top:1px solid rgba(23,47,56,.14);display:grid;gap:9px}
+.service-details li{color:#52686c;font-size:13px;line-height:1.75}
+.service-details strong{color:#263d46;font-weight:700}
+.service-list a{font-size:12px;font-weight:700;color:var(--ink);text-decoration:none}
+.page-cta{text-align:center;background:var(--mint);padding:7vw 5vw}
+.page-cta p{margin:0;color:#55716d;font-size:12px}
+.page-cta h2{font:600 clamp(30px,4vw,48px) "Noto Serif TC",serif;margin:7px 0 25px}
+.standalone{padding-top:3vw}
+.article-grid-wide{grid-template-columns:repeat(3,1fr)}
+.story{display:grid;grid-template-columns:1fr 1fr;gap:10vw;padding:8vw 15vw}
+.story h2{font:600 clamp(29px,3.5vw,46px)/1.4 "Noto Serif TC",serif;margin:0}
+.story>div:last-child{padding-top:27px;color:#52686c}
+.story p{font-size:17px}
+.values{display:grid;grid-template-columns:repeat(3,1fr);padding:0 15vw 9vw}
+.values article{border-top:1px solid var(--line);padding:25px 20px 5px 0}
+.values article+article{padding-left:25px;border-left:1px solid var(--line)}
+.values span{font-size:11px;color:#5b746e;font-weight:700}
+.values h3{font:600 29px "Noto Serif TC",serif;margin:23px 0 6px}
+.values p{font-size:13px;color:#596c70;margin:0}
+.contact-page{min-height:650px}
+.contact-page h1{font:600 clamp(38px,4vw,57px)/1.3 "Noto Serif TC",serif;margin:0}
+.contact-detail{margin-top:35px!important;line-height:2}
+.contact textarea{width:100%;resize:vertical;display:block;margin-top:4px;border:0;border-bottom:1px solid #628078;background:transparent;color:white;font:14px inherit;padding:10px 0;border-radius:0}
+@media(max-width:760px){
+  .page-hero{min-height:330px;padding:16vw 8vw;background:linear-gradient(180deg,#f7f5ee 0%,#f7f5ee 78%,#c8ded5 78%)}
+  .page-hero h1{font-size:40px}
+  .service-list{padding:10vw 8vw 18vw}
+  .service-list article{grid-template-columns:42px 1fr;gap:15px;padding:27px 0}
+  .service-list a{grid-column:2}
+  .service-list h2{font-size:24px}
+  .service-details{margin-top:13px;gap:8px}.service-details li{font-size:12px}
+  .service-detail-page{padding:14vw 8vw 18vw}.service-detail-page p{font-size:16px}
+  .detail-section{margin-top:42px;padding-top:27px}.detail-section h2{font-size:27px}.detail-question-list{grid-template-columns:1fr;gap:10px}.detail-question-list article{padding:20px}.detail-question-list p{font-size:15px}.comparison-table-wrap{margin-top:20px}.comparison-table th,.comparison-table td{padding:14px 15px;font-size:14px}.detail-note{font-size:15px!important}.detail-legal-source{font-size:13px!important}
+  .article-grid-wide{grid-template-columns:1fr}
+  .story{grid-template-columns:1fr;padding:17vw 8vw;gap:12px}
+  .story>div:last-child{padding-top:0}
+  .values{grid-template-columns:1fr;padding:0 8vw 17vw}
+  .values article+article{padding-left:0;border-left:0}
+  .contact-page{min-height:0}
+}
+
+/* JCCPA mobile full-width reading layout */
+@media (max-width:760px){
+  .page-hero{
+    padding-left:5.5vw;
+    padding-right:5.5vw;
+  }
+  .page-hero h1,
+  .contact-page h1{
+    max-width:100%;
+    font-size:clamp(32px,9vw,38px);
+    line-height:1.4;
+    letter-spacing:0;
+    text-wrap:balance;
+    overflow-wrap:anywhere;
+  }
+  .page-hero h1 em{display:inline}
+
+  .service-list{
+    padding:10vw 5.5vw 16vw;
+  }
+  .service-list article{
+    display:block;
+    width:100%;
+    padding:30px 0;
+  }
+  .service-list article>div,
+  .service-list article>a{
+    grid-column:auto;
+  }
+  .service-list article>a{
+    display:inline-flex;
+    min-height:44px;
+    margin-top:14px;
+    align-items:center;
+  }
+  .service-list h2{
+    max-width:100%;
+    margin-bottom:10px;
+    font-size:24px;
+    line-height:1.45;
+    letter-spacing:0;
+    text-wrap:balance;
+    overflow-wrap:anywhere;
+  }
+  .service-list p,
+  .service-list .service-intro,
+  .service-list .service-story{
+    width:100%;
+    max-width:none;
+    font-size:16px;
+    line-height:1.85;
+    text-align:left;
+  }
+  .service-list .service-story{margin-top:15px}
+  .service-list .service-detail-link{
+    min-height:44px;
+    margin-top:12px;
+    font-size:14px;
+    line-height:1.5;
+  }
+
+  .service-detail-page{
+    width:100%;
+    padding:11vw 5.5vw 16vw;
+  }
+  .service-detail-page>p,
+  .detail-section>p,
+  .detail-question-list p,
+  .detail-note,
+  .detail-legal-source{
+    width:100%;
+    max-width:none;
+  }
+  .service-detail-page p{
+    font-size:16px;
+    line-height:1.85;
+    text-align:left;
+  }
+  .detail-section{
+    max-width:none;
+    margin-top:40px;
+    padding-top:26px;
+  }
+  .detail-section h2{
+    max-width:100%;
+    margin-bottom:15px;
+    font-size:clamp(23px,6.7vw,27px);
+    line-height:1.5;
+    letter-spacing:0;
+    text-wrap:balance;
+    overflow-wrap:anywhere;
+  }
+  .detail-section h3{
+    max-width:100%;
+    font-size:19px;
+    line-height:1.55;
+    letter-spacing:0;
+    text-wrap:pretty;
+    overflow-wrap:anywhere;
+  }
+  .detail-question-list article{padding:20px 18px}
+
+  .page-cta h2,
+  .story h2,
+  .values h3{
+    max-width:100%;
+    font-size:clamp(25px,7.5vw,32px);
+    line-height:1.5;
+    letter-spacing:0;
+    text-wrap:balance;
+    overflow-wrap:anywhere;
+  }
+}
