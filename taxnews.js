@@ -1,5 +1,5 @@
 window.TAX_NEWS = {
-  "updated": "2026-09-22 14:43",
+  "updated": "2026-09-22 14:46",
   "count": 15,
   "news": [
     {
