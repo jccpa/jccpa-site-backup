@@ -1,12 +1,18 @@
 window.TAX_NEWS = {
-  "updated": "2026-09-22 14:46",
+  "updated": "2026-09-23 08:30",
   "count": 15,
   "news": [
     {
       "title": "稅務Tempo趴 創意你來拍！短影音競賽活動嗨翻登場",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "source": "新竹縣政府稅務局"
+    },
+    {
+      "title": "提醒您，公同共有土地的地價稅 全體共有人都有繳納責任喔！",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/Yobr7Y2",
+      "date": "2026-09-22",
+      "source": "花蓮縣地方稅務局"
     },
     {
       "title": "新北稅捐廉政專案講習 促進AI於專業之運作與廉能透明",
@@ -85,12 +91,6 @@ window.TAX_NEWS = {
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/wNO6j7P",
       "date": "2026-09-18",
       "source": "新北市政府稅捐稽徵處"
-    },
-    {
-      "title": "農地未作農業使用  小心補徵地價稅",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/Mp95BV8",
-      "date": "2026-09-18",
-      "source": "嘉義市政府財政稅務局"
     }
   ]
 };
