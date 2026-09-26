@@ -1,11 +1,11 @@
 window.TAX_NEWS = {
-  "updated": "2026-09-25 08:30",
+  "updated": "2026-09-26 08:30",
   "count": 15,
   "news": [
     {
       "title": "稅務Tempo趴 創意你來拍！短影音競賽活動嗨翻登場",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "source": "新竹縣政府稅務局"
     },
     {
