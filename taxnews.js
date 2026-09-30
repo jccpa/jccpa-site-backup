@@ -1,10 +1,70 @@
 window.TAX_NEWS = {
-  "updated": "2026-09-29 08:30",
+  "updated": "2026-09-30 08:30",
   "count": 15,
   "news": [
     {
       "title": "稅務Tempo趴 創意你來拍！短影音競賽活動嗨翻登場",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
+      "date": "2026-09-30",
+      "source": "新竹縣政府稅務局"
+    },
+    {
+      "title": "115年營業用車輛下期使用牌照稅於10月1日開徵囉!",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/KwAW8V",
+      "date": "2026-09-29",
+      "source": "宜蘭縣政府財政稅務局"
+    },
+    {
+      "title": "直撥退稅真便利 臨櫃申辦送好禮",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/nppnJ6A",
+      "date": "2026-09-29",
+      "source": "宜蘭縣政府財政稅務局"
+    },
+    {
+      "title": "地上房屋無權狀如何申請按自用住宅用地優惠稅率課徵地價稅",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/1GQwJ8",
+      "date": "2026-09-29",
+      "source": "屏東縣政府財稅局"
+    },
+    {
+      "title": "稅捐處邀請您10月3日衛武營都會公園，一起來參加重陽節敬老活動",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/ZJq63pn",
+      "date": "2026-09-29",
+      "source": "高雄市稅捐稽徵處"
+    },
+    {
+      "title": "115年10月22日滿州鄉港仔社區發展協會租稅講習",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/QrVv0gr",
+      "date": "2026-09-29",
+      "source": "屏東縣政府財稅局"
+    },
+    {
+      "title": "農地恢復作農業使用，申請課徵田賦，保障租稅權益！",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/0bn1Lq3",
+      "date": "2026-09-29",
+      "source": "屏東縣政府財稅局"
+    },
+    {
+      "title": "低收入戶，可申請減免房屋稅",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/pxa5JE7",
+      "date": "2026-09-29",
+      "source": "臺中市政府地方稅務局民權分局"
+    },
+    {
+      "title": "關注《基隆市稅》，稅務新訊不漏接",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/nNJ9kYE",
+      "date": "2026-09-29",
+      "source": "基隆市稅務局"
+    },
+    {
+      "title": "發票存載具，行動支付pay！全家點數、禮物卡帶回家～",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/1ZmKo8g",
+      "date": "2026-09-29",
+      "source": "高雄市稅捐稽徵處"
+    },
+    {
+      "title": "買屋自住別漏填契稅附聯，符合條件即可適用房屋自住稅率",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/VeZpjmq",
       "date": "2026-09-29",
       "source": "新竹縣政府稅務局"
     },
@@ -31,66 +91,6 @@ window.TAX_NEWS = {
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/W0Az1kb",
       "date": "2026-09-24",
       "source": "臺南市政府財政稅務局臺南分局"
-    },
-    {
-      "title": "出租住家房屋享房屋稅優惠，結合公證同步宣導，線上申辦輕鬆搞定！",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/PpDbLrg",
-      "date": "2026-09-24",
-      "source": "高雄市稅捐稽徵處"
-    },
-    {
-      "title": "住宅區土地作農業使用，公共設施完竣次年起改課地價稅",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/mMrr75W",
-      "date": "2026-09-24",
-      "source": "臺中市政府地方稅務局沙鹿分局"
-    },
-    {
-      "title": "申辦「稅籍異動即時通」防詐好安心！",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/PMkmooM",
-      "date": "2026-09-24",
-      "source": "臺中市政府地方稅務局東山分局"
-    },
-    {
-      "title": "同婚親屬也可享身障免牌照稅！符合資格快申請，每年最高省1萬1,230元",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/NL0Vnz5",
-      "date": "2026-09-24",
-      "source": "臺中市政府地方稅務局"
-    },
-    {
-      "title": "稅務局主動清查輔導　長照特約車輛可免徵使用牌照稅",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/pVWrL8O",
-      "date": "2026-09-23",
-      "source": "花蓮縣地方稅務局"
-    },
-    {
-      "title": "115年營業用車輛下期使用牌照稅於10月1日開徵 多元繳稅管道便利又省時",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/boRRGe9",
-      "date": "2026-09-23",
-      "source": "臺北市稅捐稽徵處"
-    },
-    {
-      "title": "報停、繳銷或註銷牌照上路，小心受罰!!",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/KwqelAR",
-      "date": "2026-09-23",
-      "source": "新北市政府稅捐稽徵處"
-    },
-    {
-      "title": "使用牌照稅繳稅管道多元化，任您選擇",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/x72AJO6",
-      "date": "2026-09-23",
-      "source": "新北市政府稅捐稽徵處"
-    },
-    {
-      "title": "115年營業用車輛下期使用牌照稅10月1日開徵",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/GVeYV1k",
-      "date": "2026-09-23",
-      "source": "新北市政府稅捐稽徵處"
-    },
-    {
-      "title": "非都市土地供作道路使用符合3要件，移轉時可申請免徵土地增值稅",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/QGorB6B",
-      "date": "2026-09-23",
-      "source": "臺南市政府財政稅務局新營分局"
     }
   ]
 };
