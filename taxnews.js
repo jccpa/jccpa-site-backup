@@ -1,12 +1,42 @@
 window.TAX_NEWS = {
-  "updated": "2026-10-05 08:30",
+  "updated": "2026-10-06 08:30",
   "count": 15,
   "news": [
     {
       "title": "稅務Tempo趴 創意你來拍！短影音競賽活動嗨翻登場",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "source": "新竹縣政府稅務局"
+    },
+    {
+      "title": "10/6「2026現場徵才活動暨青年職涯探索」租稅菸酒宣導",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/a7GkP8l",
+      "date": "2026-10-05",
+      "source": "屏東縣政府財稅局"
+    },
+    {
+      "title": "自用住宅嗣後購買同棟大樓停車位，增加的土地持分須另行提出地價稅自用住宅用地優惠稅率申請",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/2gpG8ZG",
+      "date": "2026-10-05",
+      "source": "高雄市稅捐稽徵處"
+    },
+    {
+      "title": "重購自用住宅用地土地增值稅退稅不限次數",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/kgPOvez",
+      "date": "2026-10-05",
+      "source": "臺中市政府地方稅務局民權分局"
+    },
+    {
+      "title": "同性婚姻關係若符合自住要件，得適用自住住家用稅率課徵房屋稅",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/0q6r616",
+      "date": "2026-10-05",
+      "source": "高雄市稅捐稽徵處"
+    },
+    {
+      "title": "10月9、10日稅捐處結合左營萬年季舉辦租稅宣導，邀您來捐發票、玩租稅！",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/wGV8V9v",
+      "date": "2026-10-05",
+      "source": "高雄市稅捐稽徵處"
     },
     {
       "title": "與富邦悍將一起捍衛租稅  來新莊挺棒球、刷載具愛地球",
@@ -61,36 +91,6 @@ window.TAX_NEWS = {
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/5DE7Gvr",
       "date": "2026-10-02",
       "source": "新竹縣政府稅務局"
-    },
-    {
-      "title": "花蓮縣地方稅務局榮獲「第二屆洄瀾透明獎」特優",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/nDJ6VWQ",
-      "date": "2026-10-01",
-      "source": "花蓮縣地方稅務局"
-    },
-    {
-      "title": "共有土地分割，是否課徴土地增值稅",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/eZ6jwAo",
-      "date": "2026-10-01",
-      "source": "臺中市政府地方稅務局大屯分局"
-    },
-    {
-      "title": "開口契約之印花稅應先按預估金額繳納印花稅",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/eZveL9o",
-      "date": "2026-10-01",
-      "source": "臺中市政府地方稅務局豐原分局"
-    },
-    {
-      "title": "印花稅退稅請求權可於10年內提出申請",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/VEEkxx3",
-      "date": "2026-10-01",
-      "source": "臺中市政府地方稅務局豐原分局"
-    },
-    {
-      "title": "清廉服務深耕嘉義！嘉義縣財稅局榮獲第4屆「透明晶質獎」特優",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/rnv85kN",
-      "date": "2026-10-01",
-      "source": "嘉義縣財政稅務局"
     }
   ]
 };
