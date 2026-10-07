@@ -1,12 +1,30 @@
 window.TAX_NEWS = {
-  "updated": "2026-10-06 08:30",
+  "updated": "2026-10-07 08:30",
   "count": 15,
   "news": [
     {
       "title": "稅務Tempo趴 創意你來拍！短影音競賽活動嗨翻登場",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "source": "新竹縣政府稅務局"
+    },
+    {
+      "title": "國稅、地方稅別搞混，找對檢舉管道才能加快案件處理",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/LOO2NV",
+      "date": "2026-10-06",
+      "source": "高雄市稅捐稽徵處"
+    },
+    {
+      "title": "欠稅或被註銷牌照車輛使用公共道路，將面臨補稅及罰鍰",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/ogKe5wl",
+      "date": "2026-10-06",
+      "source": "臺中市政府地方稅務局"
+    },
+    {
+      "title": "遺產過戶/繼承登記別忘了關鍵解鎖步驟！",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/VKGZD3",
+      "date": "2026-10-06",
+      "source": "高雄市稅捐稽徵處"
     },
     {
       "title": "10/6「2026現場徵才活動暨青年職涯探索」租稅菸酒宣導",
@@ -73,24 +91,6 @@ window.TAX_NEWS = {
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/eMgaKr1",
       "date": "2026-10-02",
       "source": "桃園市政府地方稅務局"
-    },
-    {
-      "title": "中市41萬戶自住族享房屋稅1%優惠！116年單一自住房屋現值為152萬6,400元",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/jPoE9xa",
-      "date": "2026-10-02",
-      "source": "臺中市政府地方稅務局"
-    },
-    {
-      "title": "娛樂稅也可以網路申報",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/nk6WPRp",
-      "date": "2026-10-02",
-      "source": "基隆市稅務局"
-    },
-    {
-      "title": "直撥退稅不繞路，省時便利入帳戶！稅務雙聲道，防詐退稅有一套！",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/5DE7Gvr",
-      "date": "2026-10-02",
-      "source": "新竹縣政府稅務局"
     }
   ]
 };
