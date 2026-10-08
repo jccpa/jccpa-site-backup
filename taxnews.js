@@ -1,12 +1,60 @@
 window.TAX_NEWS = {
-  "updated": "2026-10-07 08:30",
+  "updated": "2026-10-08 08:30",
   "count": 15,
   "news": [
     {
       "title": "稅務Tempo趴 創意你來拍！短影音競賽活動嗨翻登場",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "source": "新竹縣政府稅務局"
+    },
+    {
+      "title": "省時、省力又安心　稅務局籲請民眾多加申辦直撥退稅",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/Q9PvJYV",
+      "date": "2026-10-07",
+      "source": "花蓮縣地方稅務局"
+    },
+    {
+      "title": "115年下期營業用車輛使用牌照稅，請於11月2日之前繳納！",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/evWx76Z",
+      "date": "2026-10-07",
+      "source": "屏東縣政府財稅局"
+    },
+    {
+      "title": "卡匣娛樂設施為娛樂稅課稅範圍",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/3WVzx9r",
+      "date": "2026-10-07",
+      "source": "臺中市政府地方稅務局東勢分局"
+    },
+    {
+      "title": "屏東財稅局10/9舉辦星空電影院親子租稅宣導活動",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/raR1kZ9",
+      "date": "2026-10-07",
+      "source": "屏東縣政府財稅局"
+    },
+    {
+      "title": "稅務局加強查緝未稅及報停、繳銷或註銷牌照之交通工具使用公共道路違章作業",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/xOlzGK2",
+      "date": "2026-10-07",
+      "source": "基隆市稅務局"
+    },
+    {
+      "title": "車輛借給他人使用，違章仍以車主為使用牌照稅的處分對象",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/2wNVMGj",
+      "date": "2026-10-07",
+      "source": "彰化縣地方稅務局"
+    },
+    {
+      "title": "重劃土地於繼承登記後再移轉無土地增值稅減徵40%之適用",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/Gr8am6V",
+      "date": "2026-10-07",
+      "source": "彰化縣地方稅務局"
+    },
+    {
+      "title": "取得自住房屋記得申請住家用稅率課徵房屋稅",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/nMLPloW",
+      "date": "2026-10-07",
+      "source": "彰化縣地方稅務局"
     },
     {
       "title": "國稅、地方稅別搞混，找對檢舉管道才能加快案件處理",
@@ -43,54 +91,6 @@ window.TAX_NEWS = {
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/kgPOvez",
       "date": "2026-10-05",
       "source": "臺中市政府地方稅務局民權分局"
-    },
-    {
-      "title": "同性婚姻關係若符合自住要件，得適用自住住家用稅率課徵房屋稅",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/0q6r616",
-      "date": "2026-10-05",
-      "source": "高雄市稅捐稽徵處"
-    },
-    {
-      "title": "10月9、10日稅捐處結合左營萬年季舉辦租稅宣導，邀您來捐發票、玩租稅！",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/wGV8V9v",
-      "date": "2026-10-05",
-      "source": "高雄市稅捐稽徵處"
-    },
-    {
-      "title": "與富邦悍將一起捍衛租稅  來新莊挺棒球、刷載具愛地球",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/Y17AVrZ",
-      "date": "2026-10-02",
-      "source": "新北市政府稅捐稽徵處"
-    },
-    {
-      "title": "使用牌照稅多元化繳稅真方便!!!",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/r7Zejp3",
-      "date": "2026-10-02",
-      "source": "雲林縣稅務局"
-    },
-    {
-      "title": "以網路代替馬路！雲林縣稅務局推「電子稅務文件」，省時省力免排隊",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/rLwjBbv",
-      "date": "2026-10-02",
-      "source": "雲林縣稅務局"
-    },
-    {
-      "title": "土地移轉別忽略地價稅優惠申請，避免稅負增加",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/9jVGNYx",
-      "date": "2026-10-02",
-      "source": "雲林縣稅務局"
-    },
-    {
-      "title": "財產信託欠稅仍須負責　受託人自有財產亦得強制執行",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/JMk0A27",
-      "date": "2026-10-02",
-      "source": "桃園市政府地方稅務局"
-    },
-    {
-      "title": "桃園市地稅局攜手喜憨兒基金會，一起送愛到偏鄉",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/eMgaKr1",
-      "date": "2026-10-02",
-      "source": "桃園市政府地方稅務局"
     }
   ]
 };
