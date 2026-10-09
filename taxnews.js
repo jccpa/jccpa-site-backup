@@ -1,10 +1,52 @@
 window.TAX_NEWS = {
-  "updated": "2026-10-08 08:30",
+  "updated": "2026-10-09 08:30",
   "count": 15,
   "news": [
     {
       "title": "稅務Tempo趴 創意你來拍！短影音競賽活動嗨翻登場",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
+      "date": "2026-10-09",
+      "source": "新竹縣政府稅務局"
+    },
+    {
+      "title": "為何多筆土地只收到一張繳款書？ 地價稅採「總歸戶制」 收到請先核對免重複補發",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/q8PQVVO",
+      "date": "2026-10-08",
+      "source": "花蓮縣地方稅務局"
+    },
+    {
+      "title": "新北稅捐處將舉辦地政士稅務座談會",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/0QzEJb6",
+      "date": "2026-10-08",
+      "source": "新北市政府稅捐稽徵處"
+    },
+    {
+      "title": "娛樂消費e起來!  北市稅處邀您看表演抽Apple Watch",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/V60jJeP",
+      "date": "2026-10-08",
+      "source": "臺北市稅捐稽徵處"
+    },
+    {
+      "title": "沒有取得地主的土地使用同意書，新、增建之房屋仍要設立房屋稅籍核課房屋稅!",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/NQP8zQx",
+      "date": "2026-10-08",
+      "source": "桃園市政府地方稅務局大溪分局"
+    },
+    {
+      "title": "校園辦電影欣賞、演唱會不用再跑稅務局辦理娛樂稅徵免手續",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/wNZMWkv",
+      "date": "2026-10-08",
+      "source": "臺中市政府地方稅務局"
+    },
+    {
+      "title": "申請准予分期繳納欠稅仍不得塗銷禁止財產處分登記",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/OEbvYzR",
+      "date": "2026-10-08",
+      "source": "臺中市政府地方稅務局東勢分局"
+    },
+    {
+      "title": "租約續租、換房客別忘重新申請，房屋出租優惠稅率才能續享",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/M1pK1nR",
       "date": "2026-10-08",
       "source": "新竹縣政府稅務局"
     },
@@ -49,48 +91,6 @@ window.TAX_NEWS = {
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/Gr8am6V",
       "date": "2026-10-07",
       "source": "彰化縣地方稅務局"
-    },
-    {
-      "title": "取得自住房屋記得申請住家用稅率課徵房屋稅",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/nMLPloW",
-      "date": "2026-10-07",
-      "source": "彰化縣地方稅務局"
-    },
-    {
-      "title": "國稅、地方稅別搞混，找對檢舉管道才能加快案件處理",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/LOO2NV",
-      "date": "2026-10-06",
-      "source": "高雄市稅捐稽徵處"
-    },
-    {
-      "title": "欠稅或被註銷牌照車輛使用公共道路，將面臨補稅及罰鍰",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/ogKe5wl",
-      "date": "2026-10-06",
-      "source": "臺中市政府地方稅務局"
-    },
-    {
-      "title": "遺產過戶/繼承登記別忘了關鍵解鎖步驟！",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/VKGZD3",
-      "date": "2026-10-06",
-      "source": "高雄市稅捐稽徵處"
-    },
-    {
-      "title": "10/6「2026現場徵才活動暨青年職涯探索」租稅菸酒宣導",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/a7GkP8l",
-      "date": "2026-10-05",
-      "source": "屏東縣政府財稅局"
-    },
-    {
-      "title": "自用住宅嗣後購買同棟大樓停車位，增加的土地持分須另行提出地價稅自用住宅用地優惠稅率申請",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/2gpG8ZG",
-      "date": "2026-10-05",
-      "source": "高雄市稅捐稽徵處"
-    },
-    {
-      "title": "重購自用住宅用地土地增值稅退稅不限次數",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/kgPOvez",
-      "date": "2026-10-05",
-      "source": "臺中市政府地方稅務局民權分局"
     }
   ]
 };
