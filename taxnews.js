@@ -1,18 +1,36 @@
 window.TAX_NEWS = {
-  "updated": "2026-10-13 08:31",
+  "updated": "2026-10-14 08:30",
   "count": 15,
   "news": [
     {
       "title": "稅務Tempo趴 創意你來拍！短影音競賽活動嗨翻登場",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "source": "新竹縣政府稅務局"
+    },
+    {
+      "title": "「全民敢動 桃戰巔峰—啟動新南向 桃園新連心」租稅宣導活動，一起學租稅、捐雲端發票送好禮！",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/roVEbb3",
+      "date": "2026-10-13",
+      "source": "桃園市政府地方稅務局"
+    },
+    {
+      "title": "「稅警防詐即時通」網路活動得獎名單出爐!",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/Z7E99Pr",
+      "date": "2026-10-13",
+      "source": "桃園市政府地方稅務局"
     },
     {
       "title": "3至6月起課新建房屋要注意",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/B1NBjBx",
       "date": "2026-10-13",
       "source": "臺南市政府財政稅務局"
+    },
+    {
+      "title": "重購自用住宅退稅土地管制5年，勿隨意改作其他用途或移轉",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/lRQY0zn",
+      "date": "2026-10-13",
+      "source": "臺中市政府地方稅務局東山分局"
     },
     {
       "title": "稅捐處結合重陽節敬老在科工館租稅宣導",
@@ -23,6 +41,30 @@ window.TAX_NEWS = {
     {
       "title": "市稅處結合鳥松區115年重陽敬老活動辦理租稅與教育宣導",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/r7bMLpW",
+      "date": "2026-10-13",
+      "source": "高雄市稅捐稽徵處"
+    },
+    {
+      "title": "娛樂業開業、設備變更要注意！娛樂稅報繳手續別忘了事前申請",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/VEWNnB3",
+      "date": "2026-10-13",
+      "source": "新竹縣政府稅務局"
+    },
+    {
+      "title": "換屋族節稅撇步：善用土地增值稅重購退稅！",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/WVEBq1Y",
+      "date": "2026-10-13",
+      "source": "高雄市稅捐稽徵處"
+    },
+    {
+      "title": "稅捐處10/17於高雄大遠百1F戶外廣場辦理租稅宣導，歡迎大家一起做愛心",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/GpVxJnx",
+      "date": "2026-10-13",
+      "source": "高雄市稅捐稽徵處"
+    },
+    {
+      "title": "10月17日稅捐處在運動發展局左營活動中心舉辦租稅宣導",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/1ovEM98",
       "date": "2026-10-13",
       "source": "高雄市稅捐稽徵處"
     },
@@ -48,48 +90,6 @@ window.TAX_NEWS = {
       "title": "為何多筆土地只收到一張繳款書？ 地價稅採「總歸戶制」 收到請先核對免重複補發",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/q8PQVVO",
       "date": "2026-10-08",
-      "source": "花蓮縣地方稅務局"
-    },
-    {
-      "title": "新北稅捐處將舉辦地政士稅務座談會",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/0QzEJb6",
-      "date": "2026-10-08",
-      "source": "新北市政府稅捐稽徵處"
-    },
-    {
-      "title": "娛樂消費e起來!  北市稅處邀您看表演抽Apple Watch",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/V60jJeP",
-      "date": "2026-10-08",
-      "source": "臺北市稅捐稽徵處"
-    },
-    {
-      "title": "沒有取得地主的土地使用同意書，新、增建之房屋仍要設立房屋稅籍核課房屋稅!",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/NQP8zQx",
-      "date": "2026-10-08",
-      "source": "桃園市政府地方稅務局大溪分局"
-    },
-    {
-      "title": "校園辦電影欣賞、演唱會不用再跑稅務局辦理娛樂稅徵免手續",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/wNZMWkv",
-      "date": "2026-10-08",
-      "source": "臺中市政府地方稅務局"
-    },
-    {
-      "title": "申請准予分期繳納欠稅仍不得塗銷禁止財產處分登記",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/OEbvYzR",
-      "date": "2026-10-08",
-      "source": "臺中市政府地方稅務局東勢分局"
-    },
-    {
-      "title": "租約續租、換房客別忘重新申請，房屋出租優惠稅率才能續享",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/M1pK1nR",
-      "date": "2026-10-08",
-      "source": "新竹縣政府稅務局"
-    },
-    {
-      "title": "省時、省力又安心　稅務局籲請民眾多加申辦直撥退稅",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/Q9PvJYV",
-      "date": "2026-10-07",
       "source": "花蓮縣地方稅務局"
     }
   ]
