@@ -1,22 +1,64 @@
 window.TAX_NEWS = {
-  "updated": "2026-10-14 08:30",
+  "updated": "2026-10-15 08:30",
   "count": 15,
   "news": [
     {
       "title": "稅務Tempo趴 創意你來拍！短影音競賽活動嗨翻登場",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
+      "date": "2026-10-15",
+      "source": "新竹縣政府稅務局"
+    },
+    {
+      "title": "法拍土地免自行申報土增稅　符合條件農地可申請不課徵",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7g6PRvK",
+      "date": "2026-10-14",
+      "source": "花蓮縣地方稅務局"
+    },
+    {
+      "title": "註銷牌照車輛停放路邊，小心補稅又受罰！",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/NJ0GxOz",
+      "date": "2026-10-14",
+      "source": "臺北市稅捐稽徵處"
+    },
+    {
+      "title": "省荷包快看!地價稅自用住宅適用條件放寬一族群",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/MEqYqPp",
+      "date": "2026-10-14",
+      "source": "臺南市政府財政稅務局臺南分局"
+    },
+    {
+      "title": "辦理轉帳納稅繳稅没煩惱，好處多多",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/nGO1MBg",
+      "date": "2026-10-14",
+      "source": "基隆市稅務局"
+    },
+    {
+      "title": "繼承不動產要繳印花稅嗎？",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/AgpekJw",
+      "date": "2026-10-14",
+      "source": "臺中市政府地方稅務局沙鹿分局"
+    },
+    {
+      "title": "繼承取得房屋免申報契稅，房屋稅籍納稅義務人記得要變更",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/0rWArm7",
       "date": "2026-10-14",
       "source": "新竹縣政府稅務局"
     },
     {
-      "title": "「全民敢動 桃戰巔峰—啟動新南向 桃園新連心」租稅宣導活動，一起學租稅、捐雲端發票送好禮！",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/roVEbb3",
-      "date": "2026-10-13",
-      "source": "桃園市政府地方稅務局"
+      "title": "10月18日稅捐處在新莊國小舉辦租稅宣導",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/YvjePLl",
+      "date": "2026-10-14",
+      "source": "高雄市稅捐稽徵處"
     },
     {
       "title": "「稅警防詐即時通」網路活動得獎名單出爐!",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/Z7E99Pr",
+      "date": "2026-10-13",
+      "source": "桃園市政府地方稅務局"
+    },
+    {
+      "title": "「全民敢動 桃戰巔峰—啟動新南向 桃園新連心」租稅宣導活動，一起學租稅、捐雲端發票送好禮！",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/roVEbb3",
       "date": "2026-10-13",
       "source": "桃園市政府地方稅務局"
     },
@@ -49,48 +91,6 @@ window.TAX_NEWS = {
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/VEWNnB3",
       "date": "2026-10-13",
       "source": "新竹縣政府稅務局"
-    },
-    {
-      "title": "換屋族節稅撇步：善用土地增值稅重購退稅！",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/WVEBq1Y",
-      "date": "2026-10-13",
-      "source": "高雄市稅捐稽徵處"
-    },
-    {
-      "title": "稅捐處10/17於高雄大遠百1F戶外廣場辦理租稅宣導，歡迎大家一起做愛心",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/GpVxJnx",
-      "date": "2026-10-13",
-      "source": "高雄市稅捐稽徵處"
-    },
-    {
-      "title": "10月17日稅捐處在運動發展局左營活動中心舉辦租稅宣導",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/1ovEM98",
-      "date": "2026-10-13",
-      "source": "高雄市稅捐稽徵處"
-    },
-    {
-      "title": "同婚家庭土地稅權益升級 自用住宅優惠比照適用",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/78RK61B",
-      "date": "2026-10-12",
-      "source": "花蓮縣地方稅務局"
-    },
-    {
-      "title": "校園辦電影欣賞、演唱會不用再跑稅務局辦理娛樂稅徵免手續",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/8pO08DJ",
-      "date": "2026-10-12",
-      "source": "臺中市政府地方稅務局"
-    },
-    {
-      "title": "線上解鎖E化繳稅，好康幸運兒就是你！",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/9G1nk7l",
-      "date": "2026-10-12",
-      "source": "新竹縣政府稅務局"
-    },
-    {
-      "title": "為何多筆土地只收到一張繳款書？ 地價稅採「總歸戶制」 收到請先核對免重複補發",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/q8PQVVO",
-      "date": "2026-10-08",
-      "source": "花蓮縣地方稅務局"
     }
   ]
 };
