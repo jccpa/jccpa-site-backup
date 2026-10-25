@@ -1,12 +1,18 @@
 window.TAX_NEWS = {
-  "updated": "2026-10-24 10:32",
+  "updated": "2026-10-25 08:30",
   "count": 15,
   "news": [
     {
       "title": "稅務Tempo趴 創意你來拍！短影音競賽活動嗨翻登場",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "source": "新竹縣政府稅務局"
+    },
+    {
+      "title": "秋颱薔琵迫近，如遇災害損失，記得先拍照存證再申請租稅減免",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/NkVm3",
+      "date": "2026-10-24",
+      "source": "高雄市稅捐稽徵處"
     },
     {
       "title": "稅務關懷不缺席 災損減免資訊報您知",
@@ -85,12 +91,6 @@ window.TAX_NEWS = {
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/8eM5R8e",
       "date": "2026-10-22",
       "source": "基隆市稅務局"
-    },
-    {
-      "title": "車輛欠繳牌照稅上路　事後補繳仍會受罰",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/3J2waxk",
-      "date": "2026-10-22",
-      "source": "彰化縣地方稅務局"
     }
   ]
 };
