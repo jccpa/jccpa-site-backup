@@ -1,11 +1,11 @@
 window.TAX_NEWS = {
-  "updated": "2026-10-26 08:30",
+  "updated": "2026-10-27 08:30",
   "count": 15,
   "news": [
     {
       "title": "稅務Tempo趴 創意你來拍！短影音競賽活動嗨翻登場",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "source": "新竹縣政府稅務局"
     },
     {
@@ -13,6 +13,12 @@ window.TAX_NEWS = {
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/NkVm3",
       "date": "2026-10-24",
       "source": "高雄市稅捐稽徵處"
+    },
+    {
+      "title": "因颱風造成災害損失 記得拍照存證申請稅捐減免",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/wGON6zq",
+      "date": "2026-10-23",
+      "source": "嘉義市政府財政稅務局"
     },
     {
       "title": "稅務關懷不缺席 災損減免資訊報您知",
@@ -85,12 +91,6 @@ window.TAX_NEWS = {
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/BBlkwnW",
       "date": "2026-10-22",
       "source": "彰化縣地方稅務局"
-    },
-    {
-      "title": "他益信託符合規定，可適用房屋稅及地價稅自用住宅稅率。",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/8eM5R8e",
-      "date": "2026-10-22",
-      "source": "基隆市稅務局"
     }
   ]
 };
