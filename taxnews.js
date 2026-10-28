@@ -1,18 +1,66 @@
 window.TAX_NEWS = {
-  "updated": "2026-10-27 08:30",
+  "updated": "2026-10-28 08:31",
   "count": 15,
   "news": [
     {
       "title": "稅務Tempo趴 創意你來拍！短影音競賽活動嗨翻登場",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "source": "新竹縣政府稅務局"
+    },
+    {
+      "title": "教您1分鐘看懂地價稅稅單2重點",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/W2qPz5m",
+      "date": "2026-10-28",
+      "source": "高雄市稅捐稽徵處"
+    },
+    {
+      "title": "115年營業用車輛下期牌照稅繳納日即將到期，請儘速繳納！",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/Me9oE1p",
+      "date": "2026-10-28",
+      "source": "高雄市稅捐稽徵處"
+    },
+    {
+      "title": "115年營業用車輛下期使用牌照稅繳納期限至11月2日稅捐處提醒車主把握期限",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/6oWEPaK",
+      "date": "2026-10-27",
+      "source": "臺北市稅捐稽徵處"
+    },
+    {
+      "title": "115年地價稅11月開徵　稅務局提供補單及延時服務",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/kWPARp3",
+      "date": "2026-10-27",
+      "source": "花蓮縣地方稅務局"
+    },
+    {
+      "title": "稅單經送達逾滯納期滿仍未繳納，將被移送執行",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/EoDv6vO",
+      "date": "2026-10-27",
+      "source": "臺中市政府地方稅務局大屯分局"
+    },
+    {
+      "title": "長照機構開立之收據，記得貼用繳納印花稅",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/bA8BYx3",
+      "date": "2026-10-27",
+      "source": "臺中市政府地方稅務局"
+    },
+    {
+      "title": "薔琵颱風釀災，基隆市稅務局主動協助民眾災後稅捐減免",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/aVYDgw8",
+      "date": "2026-10-27",
+      "source": "基隆市稅務局"
     },
     {
       "title": "秋颱薔琵迫近，如遇災害損失，記得先拍照存證再申請租稅減免",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/NkVm3",
       "date": "2026-10-24",
       "source": "高雄市稅捐稽徵處"
+    },
+    {
+      "title": "115年下期使用牌照稅繳納進入倒數！提醒車主把握期限完稅。",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/WkmL8Jm",
+      "date": "2026-10-23",
+      "source": "桃園市政府地方稅務局"
     },
     {
       "title": "因颱風造成災害損失 記得拍照存證申請稅捐減免",
@@ -33,64 +81,16 @@ window.TAX_NEWS = {
       "source": "臺北市稅捐稽徵處"
     },
     {
+      "title": "為進行系統維護更新，桃園市政府地方稅務局將自115年10月22日(四)17時至115年10月28日(三)12時止暫停部分線上服務！",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/ZYQwRxr",
+      "date": "2026-10-22",
+      "source": "桃園市政府地方稅務局"
+    },
+    {
       "title": "颱風來襲 稅務局提醒民眾做好防颱準備",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/1ZnKlqk",
       "date": "2026-10-22",
       "source": "花蓮縣地方稅務局"
-    },
-    {
-      "title": "多元繳稅金厲害，行動支付E起來！ 宜蘭縣地價稅E化及約定轉帳繳稅抽禮券活動開跑",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/KN9Pjbn",
-      "date": "2026-10-22",
-      "source": "宜蘭縣政府財政稅務局"
-    },
-    {
-      "title": "宜蘭財稅局 10/24宜稅同樂·唱遊雲端活動延期至10/31於 羅東鎮農會第三館辦理",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/92LZMgW",
-      "date": "2026-10-22",
-      "source": "宜蘭縣政府財政稅務局"
-    },
-    {
-      "title": "地價稅繳稅管道多元化，任您選擇",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/DJOwWle",
-      "date": "2026-10-22",
-      "source": "新北市政府稅捐稽徵處"
-    },
-    {
-      "title": "地價稅11月開徵 超商繳納請落實關鍵3步驟 憑證在手最安心",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/GBekRgm",
-      "date": "2026-10-22",
-      "source": "臺中市政府地方稅務局"
-    },
-    {
-      "title": "苗栗縣政府稅務局榮獲為民服務考核特優！並分享AI服務標竿經驗",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/rPn0R63",
-      "date": "2026-10-22",
-      "source": "苗栗縣政府稅務局"
-    },
-    {
-      "title": "遇颱風豪雨災損減稅3步驟：拍照、檢附文件及申請",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/vxe7APK",
-      "date": "2026-10-22",
-      "source": "新竹縣政府稅務局"
-    },
-    {
-      "title": "「稅務躲貓貓」線上互動活動等你來挑戰",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/GEavEJm",
-      "date": "2026-10-22",
-      "source": "彰化縣地方稅務局"
-    },
-    {
-      "title": "臨時路外停車場無法適用特別稅率課徵地價稅",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/N0glnkM",
-      "date": "2026-10-22",
-      "source": "彰化縣地方稅務局"
-    },
-    {
-      "title": "地價稅繳款書印有課稅土地清單供民眾核對喔！",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/BBlkwnW",
-      "date": "2026-10-22",
-      "source": "彰化縣地方稅務局"
     }
   ]
 };
