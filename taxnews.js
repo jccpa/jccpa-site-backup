@@ -1,12 +1,18 @@
 window.TAX_NEWS = {
-  "updated": "2026-11-01 08:30",
+  "updated": "2026-11-02 08:30",
   "count": 15,
   "news": [
     {
       "title": "稅務Tempo趴 創意你來拍！短影音競賽活動嗨翻登場",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "source": "新竹縣政府稅務局"
+    },
+    {
+      "title": "繳納地價稅，方式多樣化！",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/L75lowg",
+      "date": "2026-11-02",
+      "source": "基隆市稅務局"
     },
     {
       "title": "地價稅開徵了，如有疑問請洽稅務局。",
@@ -83,12 +89,6 @@ window.TAX_NEWS = {
     {
       "title": "欠稅影響財產處分權益，及早繳清避免受限",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/1O9BBYY",
-      "date": "2026-10-30",
-      "source": "新竹縣政府稅務局"
-    },
-    {
-      "title": "地價稅單到手！「稅務雙聲道」帶您掌握節稅妙招、E化繳稅抽獎好康！",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/OQ2K1oR",
       "date": "2026-10-30",
       "source": "新竹縣政府稅務局"
     }
