@@ -1,12 +1,24 @@
 window.TAX_NEWS = {
-  "updated": "2026-11-03 08:30",
+  "updated": "2026-11-04 08:30",
   "count": 15,
   "news": [
     {
       "title": "稅務Tempo趴 創意你來拍！短影音競賽活動嗨翻登場",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "source": "新竹縣政府稅務局"
+    },
+    {
+      "title": "地價稅繳款書及封套內頁印製簡便申請表格請多加利用!",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/1k8RWWm",
+      "date": "2026-11-04",
+      "source": "基隆市稅務局"
+    },
+    {
+      "title": "稅務局「115年度服務之星」票選結果出爐！10位優秀同仁脫穎而出",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/lBKVVMn",
+      "date": "2026-11-03",
+      "source": "花蓮縣地方稅務局"
     },
     {
       "title": "人在外地也能辦！地方稅繳納證明線上申請免奔波",
@@ -15,16 +27,34 @@ window.TAX_NEWS = {
       "source": "臺南市政府財政稅務局新化分局"
     },
     {
+      "title": "多元管道繳納地價稅，快速又方便",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/kwZnRAp",
+      "date": "2026-11-03",
+      "source": "高雄市稅捐稽徵處"
+    },
+    {
       "title": "11月7日及11月8日稅捐處在海軍體育場舉辦租稅宣導",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/Gj2WJ1x",
       "date": "2026-11-03",
       "source": "高雄市稅捐稽徵處"
     },
     {
+      "title": "換屋時請檢視是否符合重購退還土地增值稅要件",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/RkJvK6p",
+      "date": "2026-11-03",
+      "source": "臺中市政府地方稅務局東勢分局"
+    },
+    {
       "title": "沒有土地，為什麼要繳稅？",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/5pm57DK",
       "date": "2026-11-03",
       "source": "基隆市稅務局"
+    },
+    {
+      "title": "11月8日邀您來澄清湖做公益、捐發票換好禮",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/WPWEoEb",
+      "date": "2026-11-03",
+      "source": "高雄市稅捐稽徵處"
     },
     {
       "title": "別讓欠稅成為出國絆腳石",
@@ -61,36 +91,6 @@ window.TAX_NEWS = {
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/qR6mx1Z",
       "date": "2026-11-02",
       "source": "屏東縣政府財稅局"
-    },
-    {
-      "title": "115年地價稅將於11月開徵囉!",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/EVP5Zml",
-      "date": "2026-11-02",
-      "source": "屏東縣政府財稅局"
-    },
-    {
-      "title": "申請土地增值稅重購退稅後，於管制期間內將土地贈與配偶，會被追繳原退還稅款",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/EwBPvBl",
-      "date": "2026-11-02",
-      "source": "臺中市政府地方稅務局文心分局"
-    },
-    {
-      "title": "114年底前開立之退稅支票即將逾期，屏東縣政府財稅局提醒民眾儘速兌領！",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/JK1VzP0",
-      "date": "2026-11-02",
-      "source": "屏東縣政府財稅局"
-    },
-    {
-      "title": "地價稅開徵了，如有疑問請洽稅務局。",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/3e18Zoz",
-      "date": "2026-11-01",
-      "source": "基隆市稅務局"
-    },
-    {
-      "title": "萬聖節千人共遊租稅魔法學園，體驗雲端發票親子同樂",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/E5b7mKA",
-      "date": "2026-10-31",
-      "source": "桃園市政府地方稅務局"
     }
   ]
 };
