@@ -1,12 +1,42 @@
 window.TAX_NEWS = {
-  "updated": "2026-11-04 08:30",
+  "updated": "2026-11-05 08:30",
   "count": 15,
   "news": [
     {
       "title": "稅務Tempo趴 創意你來拍！短影音競賽活動嗨翻登場",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "source": "新竹縣政府稅務局"
+    },
+    {
+      "title": "地價稅納稅義務人是誰?",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/Og6e09B",
+      "date": "2026-11-05",
+      "source": "基隆市稅務局"
+    },
+    {
+      "title": "地價稅約定轉帳繳納 請記得預留足額存款",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/23oVqkQ",
+      "date": "2026-11-04",
+      "source": "花蓮縣地方稅務局"
+    },
+    {
+      "title": "即日起清查身心障礙免稅車，不符規定將取消免稅資格",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/1x1gOzg",
+      "date": "2026-11-04",
+      "source": "宜蘭縣政府財政稅務局"
+    },
+    {
+      "title": "配偶贈與土地可以申請不課徵土地增值稅",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/qN1EgJp",
+      "date": "2026-11-04",
+      "source": "臺南市政府財政稅務局新化分局"
+    },
+    {
+      "title": "本網站自115年11月06日(五)17:00至11月07日(六)24:00，配合國稅異地備援演練作業， 屆時「線上查調」、「電子稅務文件」國稅相關申辦項目將無法使用，如急需相關文件，請先行線上或臨櫃辦理，不便之處敬請見諒。",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/6qxVLz5",
+      "date": "2026-11-04",
+      "source": "財政部財政資訊中心"
     },
     {
       "title": "地價稅繳款書及封套內頁印製簡便申請表格請多加利用!",
@@ -61,36 +91,6 @@ window.TAX_NEWS = {
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/YRK8j5",
       "date": "2026-11-02",
       "source": "花蓮縣地方稅務局"
-    },
-    {
-      "title": "外籍學生畢業離境車輛未過戶，會持續課徵牌照稅，欠稅也會移送強制執行！",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/NvOGRJB",
-      "date": "2026-11-02",
-      "source": "桃園市政府地方稅務局"
-    },
-    {
-      "title": "鴿子非屬法定禽畜！興建鴿舍無法免徵房屋稅!",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/O3MnZRB",
-      "date": "2026-11-02",
-      "source": "桃園市政府地方稅務局大溪分局"
-    },
-    {
-      "title": "同性婚姻家庭房屋稅自住優惠，他方當事人的父母設籍也可適用",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/nL2Vn1m",
-      "date": "2026-11-02",
-      "source": "臺南市政府財政稅務局佳里分局"
-    },
-    {
-      "title": "繳納地價稅，方式多樣化！",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/L75lowg",
-      "date": "2026-11-02",
-      "source": "基隆市稅務局"
-    },
-    {
-      "title": "欠稅無力一次繳清？財稅局提醒：可向屏東分署申請分期",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/qR6mx1Z",
-      "date": "2026-11-02",
-      "source": "屏東縣政府財稅局"
     }
   ]
 };
