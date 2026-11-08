@@ -1,12 +1,18 @@
 window.TAX_NEWS = {
-  "updated": "2026-11-07 08:30",
+  "updated": "2026-11-08 08:31",
   "count": 15,
   "news": [
     {
       "title": "稅務Tempo趴 創意你來拍！短影音競賽活動嗨翻登場",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "source": "新竹縣政府稅務局"
+    },
+    {
+      "title": "地價稅課稅內容，您瞭解嗎？",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/DwjpLg1",
+      "date": "2026-11-08",
+      "source": "基隆市稅務局"
     },
     {
       "title": "同一縣市有多筆土地，地價稅單仍然只有一張！",
@@ -85,12 +91,6 @@ window.TAX_NEWS = {
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/nKYvewQ",
       "date": "2026-11-05",
       "source": "臺中市政府地方稅務局"
-    },
-    {
-      "title": "多筆土地只收到1張地價稅單？地價稅採總歸戶制，免擔心漏單!",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/KvV87RO",
-      "date": "2026-11-05",
-      "source": "臺中市政府地方稅務局東山分局"
     }
   ]
 };
