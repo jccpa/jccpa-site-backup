@@ -1,12 +1,18 @@
 window.TAX_NEWS = {
-  "updated": "2026-11-08 08:31",
+  "updated": "2026-11-09 08:30",
   "count": 15,
   "news": [
     {
       "title": "稅務Tempo趴 創意你來拍！短影音競賽活動嗨翻登場",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "source": "新竹縣政府稅務局"
+    },
+    {
+      "title": "成年年齡下修至18歲，地價稅不受一處之限制",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/wxxq0WA",
+      "date": "2026-11-09",
+      "source": "基隆市稅務局"
     },
     {
       "title": "地價稅課稅內容，您瞭解嗎？",
@@ -37,12 +43,6 @@ window.TAX_NEWS = {
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/ABlPPkR",
       "date": "2026-11-06",
       "source": "桃園市政府地方稅務局中壢分局"
-    },
-    {
-      "title": "配合「財政部115年統一發票盃路跑」活動辦理租稅宣導，歡迎民眾一起來健身做公益。",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/QP5K9mp",
-      "date": "2026-11-06",
-      "source": "桃園市政府地方稅務局"
     },
     {
       "title": "車輛定期檢驗合格，不代表已繳清使用牌照稅！",
