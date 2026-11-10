@@ -1,18 +1,60 @@
 window.TAX_NEWS = {
-  "updated": "2026-11-09 08:30",
+  "updated": "2026-11-10 08:30",
   "count": 15,
   "news": [
     {
       "title": "稅務Tempo趴 創意你來拍！短影音競賽活動嗨翻登場",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "source": "新竹縣政府稅務局"
+    },
+    {
+      "title": "無償供公眾通行的道路用地才可免稅",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/g2roRkx",
+      "date": "2026-11-10",
+      "source": "基隆市稅務局"
+    },
+    {
+      "title": "繳款書沒有親自簽收不代表沒送達",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/lkxnwjW",
+      "date": "2026-11-09",
+      "source": "花蓮縣地方稅務局"
+    },
+    {
+      "title": "父母出資建屋登記子女為起造人 記得60日內報繳贈與契稅！",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/AAVY3AB",
+      "date": "2026-11-09",
+      "source": "臺南市政府財政稅務局安南分局"
+    },
+    {
+      "title": "中市地稅局「AI智慧客服2.0」連獲大獎  大甲地政所特來取經",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/M1rvEvB",
+      "date": "2026-11-09",
+      "source": "臺中市政府地方稅務局"
     },
     {
       "title": "成年年齡下修至18歲，地價稅不受一處之限制",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/wxxq0WA",
       "date": "2026-11-09",
       "source": "基隆市稅務局"
+    },
+    {
+      "title": "持法院調解筆錄或判決書辦理不動產移轉登記，是否需要繳納印花稅？",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/2DYNEGw",
+      "date": "2026-11-09",
+      "source": "臺中市政府地方稅務局"
+    },
+    {
+      "title": "中市「稅務星球」線上閱讀認證  闖關拿好禮",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/pwbkZAw",
+      "date": "2026-11-09",
+      "source": "臺中市政府地方稅務局"
+    },
+    {
+      "title": "手刀準備！竹縣稅務局2027「羊羊得意」水果月曆、卡通桌曆11月19日限量兌換！",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/1ZvkRYY",
+      "date": "2026-11-09",
+      "source": "新竹縣政府稅務局"
     },
     {
       "title": "地價稅課稅內容，您瞭解嗎？",
@@ -49,48 +91,6 @@ window.TAX_NEWS = {
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/D8bqgDe",
       "date": "2026-11-06",
       "source": "屏東縣政府財稅局"
-    },
-    {
-      "title": "自用住宅用地遷出戶籍，將改按一般用地稅率課徵地價稅",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/eanWAAZ",
-      "date": "2026-11-06",
-      "source": "臺中市政府地方稅務局東勢分局"
-    },
-    {
-      "title": "中市地稅局「AI智慧客服2.0」連獲大獎  大甲地政所特來取經",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/x6MQPRQ",
-      "date": "2026-11-06",
-      "source": "臺中市政府地方稅務局"
-    },
-    {
-      "title": "地價稅繳款書功能多多",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/kB20zEp",
-      "date": "2026-11-06",
-      "source": "基隆市稅務局"
-    },
-    {
-      "title": "北市稅處邀您闖關實境解謎 學租稅、挑戰拿好禮",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/QjDJ27V",
-      "date": "2026-11-05",
-      "source": "臺北市稅捐稽徵處"
-    },
-    {
-      "title": "二親等親屬住居所與身障者戶籍同址也可免牌照稅",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/DLgNMn1",
-      "date": "2026-11-05",
-      "source": "花蓮縣地方稅務局"
-    },
-    {
-      "title": "毗鄰房屋打通合併使用，符合自住要件，房屋稅享優惠！",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/kgjv39A",
-      "date": "2026-11-05",
-      "source": "臺南市政府財政稅務局新化分局"
-    },
-    {
-      "title": "「藝術、修心與美化人生」將於稅務大樓文心藝廊展出",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/nKYvewQ",
-      "date": "2026-11-05",
-      "source": "臺中市政府地方稅務局"
     }
   ]
 };
