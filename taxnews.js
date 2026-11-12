@@ -1,12 +1,24 @@
 window.TAX_NEWS = {
-  "updated": "2026-11-11 08:30",
+  "updated": "2026-11-12 08:30",
   "count": 15,
   "news": [
     {
       "title": "稅務Tempo趴 創意你來拍！短影音競賽活動嗨翻登場",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "source": "新竹縣政府稅務局"
+    },
+    {
+      "title": "已適用優惠稅率者，不需每年重新提出申請",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/VE8rOQ5",
+      "date": "2026-11-12",
+      "source": "基隆市稅務局"
+    },
+    {
+      "title": "稅務局表揚網路申報績優代理人 攜手推動地方稅便捷服務",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/BGrDg5M",
+      "date": "2026-11-11",
+      "source": "花蓮縣地方稅務局"
     },
     {
       "title": "房屋續租要申報，房屋稅優惠不漏接!",
@@ -19,6 +31,42 @@ window.TAX_NEWS = {
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/JD13V9W",
       "date": "2026-11-11",
       "source": "基隆市稅務局"
+    },
+    {
+      "title": "欠稅車輛使用公共道路，將面臨補稅及罰鍰",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/oDQ1zk9",
+      "date": "2026-11-11",
+      "source": "臺中市政府地方稅務局"
+    },
+    {
+      "title": "地價稅繳納多元又便利，約定轉帳省時又安心",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/aawBBY3",
+      "date": "2026-11-11",
+      "source": "臺中市政府地方稅務局"
+    },
+    {
+      "title": "都市及非都市土地同時適用地價稅自住用地稅率之面積限制",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/b29jqm8",
+      "date": "2026-11-11",
+      "source": "彰化縣地方稅務局"
+    },
+    {
+      "title": "娛樂業者新開業、設備變更，須於事前辦理登記及報繳娛樂稅以免受罰",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/151pr9N",
+      "date": "2026-11-11",
+      "source": "彰化縣地方稅務局"
+    },
+    {
+      "title": "車輛遭侵占經法院判決確定後牌照稅改向使用人課徵",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/32nkx6R",
+      "date": "2026-11-11",
+      "source": "彰化縣地方稅務局"
+    },
+    {
+      "title": "車多免煩惱！使用牌照稅5車一次繳",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/kl26RjB",
+      "date": "2026-11-11",
+      "source": "彰化縣地方稅務局"
     },
     {
       "title": "臨時建物也要課房屋稅！ 拆除後記得辦理註銷",
@@ -43,54 +91,6 @@ window.TAX_NEWS = {
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/DqgzwnY",
       "date": "2026-11-10",
       "source": "桃園市政府地方稅務局蘆竹分局"
-    },
-    {
-      "title": "配合中華電信網路施工，桃園市地稅局於115年11月11日(三)17時至19時將暫停主題網線上服務、總局全功能服務櫃臺夜間延時臨櫃服務及地價稅部分臨櫃服務項目",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/b9qaJk8",
-      "date": "2026-11-10",
-      "source": "桃園市政府地方稅務局"
-    },
-    {
-      "title": "無償供公眾通行的道路用地才可免稅",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/g2roRkx",
-      "date": "2026-11-10",
-      "source": "基隆市稅務局"
-    },
-    {
-      "title": "發票e起轉！屏東縣財稅局「小小職人陀螺爭霸戰」11/11線上報名",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/D6NDR3M",
-      "date": "2026-11-10",
-      "source": "屏東縣政府財稅局"
-    },
-    {
-      "title": "農地移轉給非自然人，不得適用不課徵土地增值稅！稅務局呼籲民眾注意身分限制",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/vKez8wD",
-      "date": "2026-11-10",
-      "source": "臺中市政府地方稅務局沙鹿分局"
-    },
-    {
-      "title": "查完案卻閉口不談？「稅務保密條款」是沉默的守護者",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/xzoG1Ro",
-      "date": "2026-11-10",
-      "source": "高雄市稅捐稽徵處"
-    },
-    {
-      "title": "繳款書沒有親自簽收不代表沒送達",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/lkxnwjW",
-      "date": "2026-11-09",
-      "source": "花蓮縣地方稅務局"
-    },
-    {
-      "title": "配合桃園市楊梅區楊光國民中小學辦理「115學年度校慶暨運動會」活動，舉辦租稅宣導活動，歡迎大家踴躍參加！",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/qbALObB",
-      "date": "2026-11-09",
-      "source": "桃園市政府地方稅務局楊梅分局"
-    },
-    {
-      "title": "買新厝別忘了『入戶籍』！桃園市地方稅務局提醒新屋主顧荷包!",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/5Q05eMR",
-      "date": "2026-11-09",
-      "source": "桃園市政府地方稅務局"
     }
   ]
 };
