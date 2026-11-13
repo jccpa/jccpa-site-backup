@@ -1,18 +1,60 @@
 window.TAX_NEWS = {
-  "updated": "2026-11-12 08:30",
+  "updated": "2026-11-13 08:31",
   "count": 15,
   "news": [
     {
       "title": "稅務Tempo趴 創意你來拍！短影音競賽活動嗨翻登場",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "source": "新竹縣政府稅務局"
+    },
+    {
+      "title": "兄弟姐妹設籍的房屋，不適用自用住宅優惠稅率！",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/wM8Bkvb",
+      "date": "2026-11-13",
+      "source": "基隆市稅務局"
+    },
+    {
+      "title": "承攬契約具兩種以上性質，財稅局:「分別訂約」成節稅關鍵",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/3EOQjOr",
+      "date": "2026-11-12",
+      "source": "臺南市政府財政稅務局安南分局"
+    },
+    {
+      "title": "宜蘭財稅局對未如期分期繳納地方稅者，增訂補救機制!",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/78rrkk7",
+      "date": "2026-11-12",
+      "source": "宜蘭縣政府財政稅務局"
+    },
+    {
+      "title": "繼承房屋怎麼省房屋稅？中市地稅局教您關鍵節稅3招",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/VP2zelr",
+      "date": "2026-11-12",
+      "source": "臺中市政府地方稅務局"
+    },
+    {
+      "title": "租約續租別忘記重新申請，房屋出租優惠稅率才能續享",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/oRGaP2W",
+      "date": "2026-11-12",
+      "source": "屏東縣政府財稅局"
     },
     {
       "title": "已適用優惠稅率者，不需每年重新提出申請",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/VE8rOQ5",
       "date": "2026-11-12",
       "source": "基隆市稅務局"
+    },
+    {
+      "title": "地價稅自用住宅，只要符合條件，相鄰的房屋打通合併使用也可以視為「一處」適用自用住宅優惠稅率",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/GjjKo9P",
+      "date": "2026-11-12",
+      "source": "屏東縣政府財稅局"
+    },
+    {
+      "title": "剩餘財產分配免契稅！房屋、土地規定大不同！",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/GveEJ8x",
+      "date": "2026-11-12",
+      "source": "新竹縣政府稅務局"
     },
     {
       "title": "稅務局表揚網路申報績優代理人 攜手推動地方稅便捷服務",
@@ -49,48 +91,6 @@ window.TAX_NEWS = {
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/b29jqm8",
       "date": "2026-11-11",
       "source": "彰化縣地方稅務局"
-    },
-    {
-      "title": "娛樂業者新開業、設備變更，須於事前辦理登記及報繳娛樂稅以免受罰",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/151pr9N",
-      "date": "2026-11-11",
-      "source": "彰化縣地方稅務局"
-    },
-    {
-      "title": "車輛遭侵占經法院判決確定後牌照稅改向使用人課徵",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/32nkx6R",
-      "date": "2026-11-11",
-      "source": "彰化縣地方稅務局"
-    },
-    {
-      "title": "車多免煩惱！使用牌照稅5車一次繳",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/kl26RjB",
-      "date": "2026-11-11",
-      "source": "彰化縣地方稅務局"
-    },
-    {
-      "title": "臨時建物也要課房屋稅！ 拆除後記得辦理註銷",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/m98J5QP",
-      "date": "2026-11-10",
-      "source": "花蓮縣地方稅務局"
-    },
-    {
-      "title": "持有多處房地為何只收到一張地價稅單?",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/8pP8LD7",
-      "date": "2026-11-10",
-      "source": "桃園市政府地方稅務局大溪分局"
-    },
-    {
-      "title": "「雲端送愛列車」11月號出發，邀您捐發票拿好禮",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/DLqBrPq",
-      "date": "2026-11-10",
-      "source": "桃園市政府地方稅務局"
-    },
-    {
-      "title": "土地移轉要注意！與農業經營不可分離土地務必在5月重新向公所提出申請，才能續享優惠稅率",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/DqgzwnY",
-      "date": "2026-11-10",
-      "source": "桃園市政府地方稅務局蘆竹分局"
     }
   ]
 };
