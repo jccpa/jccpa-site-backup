@@ -1,12 +1,18 @@
 window.TAX_NEWS = {
-  "updated": "2026-11-14 08:30",
+  "updated": "2026-11-15 08:30",
   "count": 15,
   "news": [
     {
       "title": "稅務Tempo趴 創意你來拍！短影音競賽活動嗨翻登場",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "source": "新竹縣政府稅務局"
+    },
+    {
+      "title": "房屋部分營業，也可申請地價稅優惠稅率",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/97nWzOz",
+      "date": "2026-11-15",
+      "source": "基隆市稅務局"
     },
     {
       "title": "夫妻持分共有的土地，雙方須提出申請，核准後才可以適用優惠稅率",
@@ -85,12 +91,6 @@ window.TAX_NEWS = {
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/VE8rOQ5",
       "date": "2026-11-12",
       "source": "基隆市稅務局"
-    },
-    {
-      "title": "地價稅自用住宅，只要符合條件，相鄰的房屋打通合併使用也可以視為「一處」適用自用住宅優惠稅率",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/GjjKo9P",
-      "date": "2026-11-12",
-      "source": "屏東縣政府財稅局"
     }
   ]
 };
