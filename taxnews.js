@@ -1,12 +1,18 @@
 window.TAX_NEWS = {
-  "updated": "2026-11-15 08:30",
+  "updated": "2026-11-16 08:30",
   "count": 15,
   "news": [
     {
       "title": "稅務Tempo趴 創意你來拍！短影音競賽活動嗨翻登場",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "source": "新竹縣政府稅務局"
+    },
+    {
+      "title": "房屋若為網拍營業場所，該如何課徵地價稅？",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7xaxvJ7",
+      "date": "2026-11-16",
+      "source": "基隆市稅務局"
     },
     {
       "title": "房屋部分營業，也可申請地價稅優惠稅率",
@@ -85,12 +91,6 @@ window.TAX_NEWS = {
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/oRGaP2W",
       "date": "2026-11-12",
       "source": "屏東縣政府財稅局"
-    },
-    {
-      "title": "已適用優惠稅率者，不需每年重新提出申請",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/VE8rOQ5",
-      "date": "2026-11-12",
-      "source": "基隆市稅務局"
     }
   ]
 };
