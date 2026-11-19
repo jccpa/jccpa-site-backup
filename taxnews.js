@@ -1,12 +1,42 @@
 window.TAX_NEWS = {
-  "updated": "2026-11-18 08:30",
+  "updated": "2026-11-19 08:30",
   "count": 15,
   "news": [
     {
       "title": "稅務Tempo趴 創意你來拍！短影音競賽活動嗨翻登場",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "source": "新竹縣政府稅務局"
+    },
+    {
+      "title": "土地所有權人變更，請重新提出優惠稅率申請",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/vnPV6Z6",
+      "date": "2026-11-19",
+      "source": "基隆市稅務局"
+    },
+    {
+      "title": "統一發票兌獎APP全新升級 六大功能讓發票管理更輕鬆",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/L3BlkrV",
+      "date": "2026-11-18",
+      "source": "花蓮縣地方稅務局"
+    },
+    {
+      "title": "土地所有權若有移轉，需重新申請適用自用住宅用地稅率課徵地價稅",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/Akp1vGR",
+      "date": "2026-11-18",
+      "source": "臺中市政府地方稅務局"
+    },
+    {
+      "title": "車輛環保回收後別忘了辦報廢，避免後續衍生牌照稅問題",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/mWDgwDw",
+      "date": "2026-11-18",
+      "source": "嘉義市政府財政稅務局"
+    },
+    {
+      "title": "繼承車輛未辦理過戶， 使用公共道路小心補稅受罰！",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/BzDY9Z5",
+      "date": "2026-11-18",
+      "source": "嘉義市政府財政稅務局"
     },
     {
       "title": "繳稅管道多元化，超商繳稅超方便",
@@ -61,36 +91,6 @@ window.TAX_NEWS = {
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/RKnr8nQ",
       "date": "2026-11-16",
       "source": "臺南市政府財政稅務局臺南分局"
-    },
-    {
-      "title": "房屋若為網拍營業場所，該如何課徵地價稅？",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7xaxvJ7",
-      "date": "2026-11-16",
-      "source": "基隆市稅務局"
-    },
-    {
-      "title": "捐雲端發票換戰鬥陀螺！屏東財稅局 11/21 快閃登場",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/89Vw5Vr",
-      "date": "2026-11-16",
-      "source": "屏東縣政府財稅局"
-    },
-    {
-      "title": "取得移轉土地後別忘了申請地價稅自用住宅優惠稅率",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/RVGPa3J",
-      "date": "2026-11-16",
-      "source": "臺中市政府地方稅務局民權分局"
-    },
-    {
-      "title": "未辦保存登記之違章房屋也要課徵房屋稅！",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/mwN2vo6",
-      "date": "2026-11-16",
-      "source": "臺中市政府地方稅務局民權分局"
-    },
-    {
-      "title": "納保案例跨域交流　高市稅攜手南嘉屏精進納稅者權益！",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7lx7ODB",
-      "date": "2026-11-16",
-      "source": "高雄市稅捐稽徵處"
     }
   ]
 };
