@@ -1,12 +1,18 @@
 window.TAX_NEWS = {
-  "updated": "2026-11-21 08:30",
+  "updated": "2026-11-22 08:30",
   "count": 15,
   "news": [
     {
       "title": "稅務Tempo趴 創意你來拍！短影音競賽活動嗨翻登場",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "source": "新竹縣政府稅務局"
+    },
+    {
+      "title": "不符課徵田賦者，應改課地價稅",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/zk3xgGQ",
+      "date": "2026-11-22",
+      "source": "基隆市稅務局"
     },
     {
       "title": "別因戶籍遷出，讓您的地價稅變貴",
@@ -85,12 +91,6 @@ window.TAX_NEWS = {
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/VgYWBbL",
       "date": "2026-11-20",
       "source": "臺中市政府地方稅務局"
-    },
-    {
-      "title": "土地增值稅重購退稅核准後，於管制期間5年內經法院拍賣應追繳原退稅款",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/MqJRmjB",
-      "date": "2026-11-20",
-      "source": "臺中市政府地方稅務局豐原分局"
     }
   ]
 };
