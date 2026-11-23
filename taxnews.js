@@ -1,12 +1,24 @@
 window.TAX_NEWS = {
-  "updated": "2026-11-22 08:30",
+  "updated": "2026-11-23 08:30",
   "count": 15,
   "news": [
     {
       "title": "稅務Tempo趴 創意你來拍！短影音競賽活動嗨翻登場",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
-      "date": "2026-11-22",
+      "date": "2026-11-23",
       "source": "新竹縣政府稅務局"
+    },
+    {
+      "title": "將不動產贈與子女的租稅規劃，除了贈與稅，土地增值稅與印花稅應一併考量。",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/l7OxvJN",
+      "date": "2026-11-23",
+      "source": "臺南市政府財政稅務局臺南分局"
+    },
+    {
+      "title": "欠繳地價稅之土地於移轉時可申請分單繳納",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/r771xVp",
+      "date": "2026-11-23",
+      "source": "基隆市稅務局"
     },
     {
       "title": "不符課徵田賦者，應改課地價稅",
@@ -79,18 +91,6 @@ window.TAX_NEWS = {
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/2PLYwWM",
       "date": "2026-11-20",
       "source": "雲林縣稅務局"
-    },
-    {
-      "title": "新婚夫妻注意！善用戶籍規劃自用住宅地價稅優惠不中斷",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/9EKYnWL",
-      "date": "2026-11-20",
-      "source": "臺南市政府財政稅務局新化分局"
-    },
-    {
-      "title": "中市地稅局金檔獎標竿效應再擴大！再迎9機關跨域取經",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/VgYWBbL",
-      "date": "2026-11-20",
-      "source": "臺中市政府地方稅務局"
     }
   ]
 };
