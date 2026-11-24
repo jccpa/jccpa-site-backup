@@ -1,12 +1,24 @@
 window.TAX_NEWS = {
-  "updated": "2026-11-23 08:30",
+  "updated": "2026-11-24 08:30",
   "count": 15,
   "news": [
     {
       "title": "稅務Tempo趴 創意你來拍！短影音競賽活動嗨翻登場",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "source": "新竹縣政府稅務局"
+    },
+    {
+      "title": "適用地價稅優惠稅率，不以一處為限！",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/OlD0lLO",
+      "date": "2026-11-24",
+      "source": "基隆市稅務局"
+    },
+    {
+      "title": "地價稅繳納期限將屆，逾期繳納代價高",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/32N88Qo",
+      "date": "2026-11-23",
+      "source": "新北市政府稅捐稽徵處"
     },
     {
       "title": "將不動產贈與子女的租稅規劃，除了贈與稅，土地增值稅與印花稅應一併考量。",
@@ -15,10 +27,34 @@ window.TAX_NEWS = {
       "source": "臺南市政府財政稅務局臺南分局"
     },
     {
+      "title": "提供財產擔保親友分期繳納欠稅，簽名擔保前要三思！",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/KjB10rp",
+      "date": "2026-11-23",
+      "source": "臺中市政府地方稅務局"
+    },
+    {
+      "title": "115年地價稅開徵即將於11月30日截止，請民眾把握時間儘速繳納！",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/VjWx25",
+      "date": "2026-11-23",
+      "source": "嘉義縣財政稅務局"
+    },
+    {
       "title": "欠繳地價稅之土地於移轉時可申請分單繳納",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/r771xVp",
       "date": "2026-11-23",
       "source": "基隆市稅務局"
+    },
+    {
+      "title": "地價稅通訊地址異動，記得向稅務局辦理更址",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/78v3v1D",
+      "date": "2026-11-23",
+      "source": "臺中市政府地方稅務局大屯分局"
+    },
+    {
+      "title": "法拍屋契稅何時申報？高市納保官協助釋疑",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/lo6vjpb",
+      "date": "2026-11-23",
+      "source": "高雄市稅捐稽徵處"
     },
     {
       "title": "不符課徵田賦者，應改課地價稅",
@@ -53,42 +89,6 @@ window.TAX_NEWS = {
     {
       "title": "領有「重大傷病證明」不適用免徵使用牌照稅",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/M2vMPeN",
-      "date": "2026-11-20",
-      "source": "雲林縣稅務局"
-    },
-    {
-      "title": "身心障礙者免徵使用牌照稅規定放寬",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/BkLreq5",
-      "date": "2026-11-20",
-      "source": "雲林縣稅務局"
-    },
-    {
-      "title": "利用自宅從事理髪等家庭副業，地價稅仍可適用自用住宅用地稅率",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7ngNVnK",
-      "date": "2026-11-20",
-      "source": "雲林縣稅務局"
-    },
-    {
-      "title": "加蓋鐵皮屋須課稅嗎？",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/qlr25Wp",
-      "date": "2026-11-20",
-      "source": "雲林縣稅務局"
-    },
-    {
-      "title": "法院判決、和解、調解移轉房屋，仍要申報契稅",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/lrGAz0Y",
-      "date": "2026-11-20",
-      "source": "雲林縣稅務局"
-    },
-    {
-      "title": "遺囑繼承及遺贈大不同，印花稅如何繳？",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/2wk00Pj",
-      "date": "2026-11-20",
-      "source": "雲林縣稅務局"
-    },
-    {
-      "title": "地方稅務全面數位化，民眾個資安全如何守?",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/2PLYwWM",
       "date": "2026-11-20",
       "source": "雲林縣稅務局"
     }
