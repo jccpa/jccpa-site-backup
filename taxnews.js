@@ -1,12 +1,36 @@
 window.TAX_NEWS = {
-  "updated": "2026-11-24 08:30",
+  "updated": "2026-11-25 08:30",
   "count": 15,
   "news": [
     {
       "title": "稅務Tempo趴 創意你來拍！短影音競賽活動嗨翻登場",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "新竹縣政府稅務局"
+    },
+    {
+      "title": "購買停車位，也可申請地價稅優惠稅率",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/PvEMQJq",
+      "date": "2026-11-25",
+      "source": "基隆市稅務局"
+    },
+    {
+      "title": "管理員代收繳款書屬合法送達 逾期仍將強制執行",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/wzABjkb",
+      "date": "2026-11-24",
+      "source": "花蓮縣地方稅務局"
+    },
+    {
+      "title": "鴿子不是家禽！鴿舍仍須課徵房屋稅",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7g586PY",
+      "date": "2026-11-24",
+      "source": "臺南市政府財政稅務局佳里分局"
+    },
+    {
+      "title": "戶籍遷不遷，稅額差很大",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/OMe5M6o",
+      "date": "2026-11-24",
+      "source": "臺中市政府地方稅務局東山分局"
     },
     {
       "title": "適用地價稅優惠稅率，不以一處為限！",
@@ -67,30 +91,6 @@ window.TAX_NEWS = {
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/Kv6bPwo",
       "date": "2026-11-21",
       "source": "基隆市稅務局"
-    },
-    {
-      "title": "農業用房屋免徵房屋稅 記得3月22日前主動申報才享優惠",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/E6m0xG8",
-      "date": "2026-11-20",
-      "source": "花蓮縣地方稅務局"
-    },
-    {
-      "title": "土地增值稅繳款書已逾繳納期限30日，經通知後仍未繳納或撤案，該申報案會被逕行註銷",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/bjq2Yl9",
-      "date": "2026-11-20",
-      "source": "雲林縣稅務局"
-    },
-    {
-      "title": "具娛樂性之射擊場所 「課徵」娛樂稅",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/K09A1rW",
-      "date": "2026-11-20",
-      "source": "雲林縣稅務局"
-    },
-    {
-      "title": "領有「重大傷病證明」不適用免徵使用牌照稅",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/M2vMPeN",
-      "date": "2026-11-20",
-      "source": "雲林縣稅務局"
     }
   ]
 };
