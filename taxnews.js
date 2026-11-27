@@ -1,12 +1,36 @@
 window.TAX_NEWS = {
-  "updated": "2026-11-26 08:30",
+  "updated": "2026-11-27 08:30",
   "count": 15,
   "news": [
     {
       "title": "稅務Tempo趴 創意你來拍！短影音競賽活動嗨翻登場",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7rqzrQg",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "source": "新竹縣政府稅務局"
+    },
+    {
+      "title": "無償供公眾通行之法定空地經指定為道路用地 可申請免徵地價稅",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/A0n9YEj",
+      "date": "2026-11-27",
+      "source": "基隆市稅務局"
+    },
+    {
+      "title": "換屋省荷包！善用土地增值稅重購退稅，減輕購屋負擔",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/RYb88wn",
+      "date": "2026-11-26",
+      "source": "花蓮縣地方稅務局"
+    },
+    {
+      "title": "相鄰房屋打通使用 符合條件可適用自住稅率",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/pEZoYDx",
+      "date": "2026-11-26",
+      "source": "花蓮縣地方稅務局"
+    },
+    {
+      "title": "115年地價稅繳納期限至11月30日止 提醒民眾如期繳納",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/n3Wp35Q",
+      "date": "2026-11-26",
+      "source": "臺北市稅捐稽徵處"
     },
     {
       "title": "農業用地移轉也取得農業用地作農業使用證明書，為什麼仍應課徵土地增值稅？",
@@ -15,82 +39,58 @@ window.TAX_NEWS = {
       "source": "臺南市政府財政稅務局佳里分局"
     },
     {
+      "title": "居留證也適用！房屋稅可享自住用優惠稅率",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/0kzY5K7",
+      "date": "2026-11-26",
+      "source": "臺中市政府地方稅務局大屯分局"
+    },
+    {
+      "title": "財稅局總局及三分局雲端發票闖關活動",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/kBPJlWA",
+      "date": "2026-11-26",
+      "source": "屏東縣政府財稅局"
+    },
+    {
+      "title": "住家用房屋作為專供網路銷售營業登記，房屋稅會改課營業用稅率嗎？",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/ZOB5wR6",
+      "date": "2026-11-26",
+      "source": "屏東縣政府財稅局"
+    },
+    {
+      "title": "傳遞幸福! 中市地稅局獲全國績優志工團隊殊榮",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/3lneGJr",
+      "date": "2026-11-26",
+      "source": "臺中市政府地方稅務局"
+    },
+    {
+      "title": "115年11月25日東港分局於東港國小設立攤位租稅宣導",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/o81kR61",
+      "date": "2026-11-26",
+      "source": "屏東縣政府財稅局"
+    },
+    {
+      "title": "不服稅捐機關非核定稅額處分，請把握30日訴願期限！",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/xQbL0QZ",
+      "date": "2026-11-26",
+      "source": "屏東縣政府財稅局"
+    },
+    {
+      "title": "全國首創！台中地稅局AI智慧客服3.0「e可比」升級登場",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/b6vER78",
+      "date": "2026-11-26",
+      "source": "臺中市政府地方稅務局"
+    },
+    {
       "title": "供公共通行的騎樓走廊用地，可申請減徵地價稅",
       "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/on6kxol",
       "date": "2026-11-26",
       "source": "基隆市稅務局"
     },
     {
-      "title": "115年地價稅繳納期限至11月30日 逾期將加徵滯納金",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7N3VxKp",
-      "date": "2026-11-25",
-      "source": "花蓮縣地方稅務局"
-    },
-    {
-      "title": "購買停車位，也可申請地價稅優惠稅率",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/PvEMQJq",
-      "date": "2026-11-25",
-      "source": "基隆市稅務局"
-    },
-    {
-      "title": "收回出租房屋自用，莫忘期限內申請改課才能節省房屋稅！",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/ZPVJgA1",
-      "date": "2026-11-25",
-      "source": "臺中市政府地方稅務局大智分局"
-    },
-    {
-      "title": "提醒！115年地價稅要在115年11月30日前繳納哦！",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/B12Q3Nl",
-      "date": "2026-11-25",
-      "source": "宜蘭縣政府財政稅務局"
-    },
-    {
-      "title": "管理員代收繳款書屬合法送達 逾期仍將強制執行",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/wzABjkb",
-      "date": "2026-11-24",
-      "source": "花蓮縣地方稅務局"
-    },
-    {
-      "title": "鴿子不是家禽！鴿舍仍須課徵房屋稅",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/7g586PY",
-      "date": "2026-11-24",
-      "source": "臺南市政府財政稅務局佳里分局"
-    },
-    {
-      "title": "戶籍遷不遷，稅額差很大",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/OMe5M6o",
-      "date": "2026-11-24",
-      "source": "臺中市政府地方稅務局東山分局"
-    },
-    {
-      "title": "適用地價稅優惠稅率，不以一處為限！",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/OlD0lLO",
-      "date": "2026-11-24",
-      "source": "基隆市稅務局"
-    },
-    {
-      "title": "地價稅繳納期限將屆，逾期繳納代價高",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/32N88Qo",
-      "date": "2026-11-23",
-      "source": "新北市政府稅捐稽徵處"
-    },
-    {
-      "title": "將不動產贈與子女的租稅規劃，除了贈與稅，土地增值稅與印花稅應一併考量。",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/l7OxvJN",
-      "date": "2026-11-23",
-      "source": "臺南市政府財政稅務局臺南分局"
-    },
-    {
-      "title": "提供財產擔保親友分期繳納欠稅，簽名擔保前要三思！",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/KjB10rp",
-      "date": "2026-11-23",
-      "source": "臺中市政府地方稅務局"
-    },
-    {
-      "title": "115年地價稅開徵即將於11月30日截止，請民眾把握時間儘速繳納！",
-      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/VjWx25",
-      "date": "2026-11-23",
-      "source": "嘉義縣財政稅務局"
+      "title": "繳稅不漏接！約定轉帳更安心",
+      "link": "https://www.etax.nat.gov.tw/etwmain/announcement/news/MkjWPO0",
+      "date": "2026-11-26",
+      "source": "彰化縣地方稅務局"
     }
   ]
 };
